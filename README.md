@@ -1,2 +1,2 @@
-# NotesApp
+# Ordinario
 Entrega final
